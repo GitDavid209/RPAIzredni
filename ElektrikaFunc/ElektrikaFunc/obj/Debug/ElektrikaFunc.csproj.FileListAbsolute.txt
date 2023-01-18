@@ -1,0 +1,13 @@
+D:\RPAIzredni\ElektrikaFunc\ElektrikaFunc\bin\Debug\ElektrikaFunc.exe.config
+D:\RPAIzredni\ElektrikaFunc\ElektrikaFunc\bin\Debug\ElektrikaFunc.exe
+D:\RPAIzredni\ElektrikaFunc\ElektrikaFunc\bin\Debug\ElektrikaFunc.pdb
+D:\RPAIzredni\ElektrikaFunc\ElektrikaFunc\obj\Debug\ElektrikaFunc.csproj.AssemblyReference.cache
+D:\RPAIzredni\ElektrikaFunc\ElektrikaFunc\obj\Debug\ElektrikaFunc.csproj.SuggestedBindingRedirects.cache
+D:\RPAIzredni\ElektrikaFunc\ElektrikaFunc\obj\Debug\ElektrikaFunc.csproj.CoreCompileInputs.cache
+D:\RPAIzredni\ElektrikaFunc\ElektrikaFunc\obj\Debug\ElektrikaFunc.exe
+D:\RPAIzredni\ElektrikaFunc\ElektrikaFunc\obj\Debug\ElektrikaFunc.pdb
+D:\RPAIzredni\ElektrikaFunc\ElektrikaFunc\bin\Debug\EntityFramework.dll
+D:\RPAIzredni\ElektrikaFunc\ElektrikaFunc\bin\Debug\EntityFramework.SqlServer.dll
+D:\RPAIzredni\ElektrikaFunc\ElektrikaFunc\bin\Debug\EntityFramework.xml
+D:\RPAIzredni\ElektrikaFunc\ElektrikaFunc\bin\Debug\EntityFramework.SqlServer.xml
+D:\RPAIzredni\ElektrikaFunc\ElektrikaFunc\obj\Debug\ElektrikaFunc.csproj.CopyComplete
