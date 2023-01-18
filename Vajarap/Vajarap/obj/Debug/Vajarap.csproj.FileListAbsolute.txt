@@ -1,0 +1,8 @@
+D:\RPAIzredni\Vajarap\Vajarap\bin\Debug\Vajarap.exe.config
+D:\RPAIzredni\Vajarap\Vajarap\bin\Debug\Vajarap.exe
+D:\RPAIzredni\Vajarap\Vajarap\bin\Debug\Vajarap.pdb
+D:\RPAIzredni\Vajarap\Vajarap\obj\Debug\Vajarap.csproj.AssemblyReference.cache
+D:\RPAIzredni\Vajarap\Vajarap\obj\Debug\Vajarap.csproj.SuggestedBindingRedirects.cache
+D:\RPAIzredni\Vajarap\Vajarap\obj\Debug\Vajarap.csproj.CoreCompileInputs.cache
+D:\RPAIzredni\Vajarap\Vajarap\obj\Debug\Vajarap.exe
+D:\RPAIzredni\Vajarap\Vajarap\obj\Debug\Vajarap.pdb
