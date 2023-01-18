@@ -1,0 +1,8 @@
+D:\RPAIzredni\VajaIzredniRPA1\VajaIzredniRPA1\bin\Debug\VajaIzredniRPA1.exe.config
+D:\RPAIzredni\VajaIzredniRPA1\VajaIzredniRPA1\bin\Debug\VajaIzredniRPA1.exe
+D:\RPAIzredni\VajaIzredniRPA1\VajaIzredniRPA1\bin\Debug\VajaIzredniRPA1.pdb
+D:\RPAIzredni\VajaIzredniRPA1\VajaIzredniRPA1\obj\Debug\VajaIzredniRPA1.csproj.AssemblyReference.cache
+D:\RPAIzredni\VajaIzredniRPA1\VajaIzredniRPA1\obj\Debug\VajaIzredniRPA1.csproj.SuggestedBindingRedirects.cache
+D:\RPAIzredni\VajaIzredniRPA1\VajaIzredniRPA1\obj\Debug\VajaIzredniRPA1.csproj.CoreCompileInputs.cache
+D:\RPAIzredni\VajaIzredniRPA1\VajaIzredniRPA1\obj\Debug\VajaIzredniRPA1.exe
+D:\RPAIzredni\VajaIzredniRPA1\VajaIzredniRPA1\obj\Debug\VajaIzredniRPA1.pdb
