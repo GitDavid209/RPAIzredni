@@ -1,0 +1,8 @@
+D:\RPAIzredni\AsinhroniTaski\AsinhroniTaski\obj\Debug\AsinhroniTaski.csproj.AssemblyReference.cache
+D:\RPAIzredni\AsinhroniTaski\AsinhroniTaski\obj\Debug\AsinhroniTaski.csproj.SuggestedBindingRedirects.cache
+D:\RPAIzredni\AsinhroniTaski\AsinhroniTaski\obj\Debug\AsinhroniTaski.csproj.CoreCompileInputs.cache
+D:\RPAIzredni\AsinhroniTaski\AsinhroniTaski\bin\Debug\AsinhroniTaski.exe.config
+D:\RPAIzredni\AsinhroniTaski\AsinhroniTaski\bin\Debug\AsinhroniTaski.exe
+D:\RPAIzredni\AsinhroniTaski\AsinhroniTaski\bin\Debug\AsinhroniTaski.pdb
+D:\RPAIzredni\AsinhroniTaski\AsinhroniTaski\obj\Debug\AsinhroniTaski.exe
+D:\RPAIzredni\AsinhroniTaski\AsinhroniTaski\obj\Debug\AsinhroniTaski.pdb
